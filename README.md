@@ -1,3 +1,5 @@
+# JDBC GUI DEMO
+
 This is a simple demo about employee system for JDBC GUI.
 There are main 4 functions in it, inclusive of searching, adding, updating, and deleting data.
 
@@ -5,6 +7,8 @@ There are main 4 functions in it, inclusive of searching, adding, updating, and 
 2. Add new account in demo db, which name is "demo" and password is "demo" too
 3. Open a EmployeeSearchApp class and run it
 
-TIPS
+## TIPS
+
 In GUI you can just click "Search" before enter anything, it will show the whole db.
-"Search" button support the sql method "%".For example, you can input "thom", it will show Thomas data.
+"Search" button support the sql method "%".
+For example, you can input "thom", it will show Thomas data.
